@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shahmansoori"
+    given-names: "Arash"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Adaptive Swarm Retrieval: A Hierarchical Agent-Based Approach for Blind and Stateful Information Retrieval"
+version: "1.0.0"
+date-released: "2024-02-20"
+doi: ""
+url: "https://github.com/arash-shahmansoori/multi_modal_swarm_rag.git"
