@@ -2,6 +2,8 @@
 
 ![Adaptive Swarm Retrieval](assets/retriver_swarm_1.png)
 
+The implementation of: ``**Adaptive Swarm Retrieval: A Hierarchical Agent-Based Approach for Blind and Stateful Information Retrieval''**. https://medium.com/@arash.mansoori65/adaptive-swarm-retrieval-a-hierarchical-agent-based-approach-for-blind-and-stateful-information-3e46188fcf25
+
 ## Description
 
 Explore our groundbreaking approach to adaptive information retrieval in a dynamic, hierarchical swarm of specialized agents. Our GitHub repository presents a novel Retrieval Agent Graph (RAG) model, showcasing a supervisor agent that intelligently navigates through a network of retriever agents, each skilled in extracting specific types of data from various document parts, such as tables or textual content. This stateful, graph-based system excels in blind and adaptive information retrieval, dynamically selecting the optimal retriever for each user query without prior knowledge of which agent will yield the best results.
